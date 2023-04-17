@@ -7,6 +7,7 @@ I'm currently building a small chat for gamers with SpringBoot, SQL Databases an
 You can check the app here: https://github.com/mtfernandez0/GameChat
 <br><br>
 I'm deepening my knowledge in the Spring Framework and the STOMP protocol and I'm learning about design patterns.<br>
+<br><br>
 You can find me in Linkedin: https://www.linkedin.com/in/matias-fernandez-383b19215/
 
 <!--
