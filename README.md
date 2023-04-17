@@ -8,7 +8,7 @@ You can check the app here: <a href="https://github.com/mtfernandez0/GameChat" t
 
 I'm deepening my knowledge in the Spring Framework and the STOMP protocol and I'm learning about design patterns.
 
-You can find me in Linkedin: <a href="https://www.linkedin.com/in/matias-fernandez-383b19215/" target="_blank"></a>
+You can find me in Linkedin: https://www.linkedin.com/in/matias-fernandez-383b19215/
 
 <!--
 **mtfernandez0/mtfernandez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
