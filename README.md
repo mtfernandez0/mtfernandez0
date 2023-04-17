@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a third year Computer Science student who have developed a strong passion for Java backend development.
+Building personal projects, I've aquired experience working with Spring, Hibernate and other related technologies.
+
+I'm currently building a small chat for gamers with SpringBoot, SQL and other frameworks.
+You can check the app here: <a href="https://github.com/mtfernandez0/GameChat" target="_blank"></a>
+
+I'm deepening my knowledge in the Spring Framework and the STOMP protocol and I'm learning about design patterns.
+
+You can find me in Linkedin: <a href="https://www.linkedin.com/in/matias-fernandez-383b19215/" target="_blank"></a>
+
 <!--
 **mtfernandez0/mtfernandez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
