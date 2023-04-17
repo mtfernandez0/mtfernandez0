@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 I'm a third year Computer Science student who have developed a strong passion for Java backend development.
 Building personal projects, I've aquired experience working with Spring, Hibernate and other related technologies.
