@@ -5,10 +5,12 @@ Building personal projects, I've aquired experience working with Spring, Hiberna
 
 
 I'm currently building a small chat for gamers with SpringBoot, SQL and other frameworks.
+
 You can check the app here: https://github.com/mtfernandez0/GameChat
 
 
 I'm deepening my knowledge in the Spring Framework and the STOMP protocol and I'm learning about design patterns.
+
 You can find me in Linkedin: https://www.linkedin.com/in/matias-fernandez-383b19215/
 
 <!--
