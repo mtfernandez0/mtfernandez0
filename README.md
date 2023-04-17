@@ -3,7 +3,7 @@
 I'm a third year Computer Science student who have developed a strong passion for Java backend development.
 Building personal projects, I've aquired experience working with Spring, Hibernate and other related technologies.
 <br><br>
-I'm currently building a small chat for gamers with SpringBoot, SQL and other frameworks.<br>
+I'm currently building a small chat for gamers with SpringBoot, SQL Databases and other frameworks.<br>
 You can check the app here: https://github.com/mtfernandez0/GameChat
 <br><br>
 I'm deepening my knowledge in the Spring Framework and the STOMP protocol and I'm learning about design patterns.<br>
